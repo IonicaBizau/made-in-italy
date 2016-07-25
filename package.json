@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1457,6 +1458,321 @@
               "2",
               "[@luruke](https://github.com/luruke)/[**appear-animation**](https://github.com/luruke/appear-animation)",
               "Easily add animation when elements comes in the viewport.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4418",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**cardslib**](https://github.com/gabrielemariotti/cardslib)",
+              "Android Library to build a UI Card",
+              ""
+            ],
+            [
+              "1885",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**RecyclerViewItemAnim…**](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)",
+              "An Android library which provides simple Item animations to RecyclerView items",
+              ""
+            ],
+            [
+              "1503",
+              "[@neokree](https://github.com/neokree)/[**MaterialNavigationDr…**](https://github.com/neokree/MaterialNavigationDrawer)",
+              "Navigation Drawer Activity with material design style and simplified methods",
+              ""
+            ],
+            [
+              "1182",
+              "[@neokree](https://github.com/neokree)/[**MaterialTabs**](https://github.com/neokree/MaterialTabs)",
+              "Custom Tabs with Material Design effects",
+              ""
+            ],
+            [
+              "778",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**changeloglib**](https://github.com/gabrielemariotti/changeloglib)",
+              "Android Library to display your changelog",
+              ""
+            ],
+            [
+              "757",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**androiddev**](https://github.com/gabrielemariotti/androiddev)",
+              "Quick tips/tutorials for Android developers",
+              ""
+            ],
+            [
+              "597",
+              "[@rampo](https://github.com/rampo)/[**UpdateChecker**](https://github.com/rampo/UpdateChecker)",
+              "Increase your app's updates",
+              ""
+            ],
+            [
+              "563",
+              "[@federicoiosue](https://github.com/federicoiosue)/[**Omni-Notes**](https://github.com/federicoiosue/Omni-Notes)",
+              "Open source note-taking application for Android",
+              "[:arrow_upper_right:](http://federicoiosue.github.io/Omni-Notes)"
+            ],
+            [
+              "505",
+              "[@Mirkoddd](https://github.com/Mirkoddd)/[**TabBarView**](https://github.com/Mirkoddd/TabBarView)",
+              "An Android Library to help you create actionbar tabs like \"Capitaine train\" app by Cyril Mottier",
+              ""
+            ],
+            [
+              "417",
+              "[@michelelacorte](https://github.com/michelelacorte)/[**SwipeableCard**](https://github.com/michelelacorte/SwipeableCard)",
+              "A simple implementation of swipe card like StreetView",
+              ""
+            ],
+            [
+              "394",
+              "[@lviggiano](https://github.com/lviggiano)/[**owner**](https://github.com/lviggiano/owner)",
+              "Get rid of the boilerplate code in properties based configuration.",
+              "[:arrow_upper_right:](http://owner.aeonbits.org)"
+            ],
+            [
+              "373",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**colorpickercollectio…**](https://github.com/gabrielemariotti/colorpickercollection)",
+              "Color Picker collection",
+              ""
+            ],
+            [
+              "222",
+              "[@michelelacorte](https://github.com/michelelacorte)/[**ElasticProgressBar**](https://github.com/michelelacorte/ElasticProgressBar)",
+              "Elastic Progress Bar Renew!",
+              ""
+            ],
+            [
+              "155",
+              "[@neokree](https://github.com/neokree)/[**GoogleNavigationDraw…**](https://github.com/neokree/GoogleNavigationDrawer)",
+              "Navigation Drawer Activity with Google design style and simplified methods",
+              ""
+            ],
+            [
+              "133",
+              "[@michelelacorte](https://github.com/michelelacorte)/[**RetractableToolbar**](https://github.com/michelelacorte/RetractableToolbar)",
+              "A library to use comfortably the toolbar retractable Android.",
+              ""
+            ],
+            [
+              "127",
+              "[@mariofusco](https://github.com/mariofusco)/[**from-gof-to-lambda**](https://github.com/mariofusco/from-gof-to-lambda)",
+              "",
+              ""
+            ],
+            [
+              "115",
+              "[@michelelacorte](https://github.com/michelelacorte)/[**IPTVFree**](https://github.com/michelelacorte/IPTVFree)",
+              "Simple IPTV",
+              ""
+            ],
+            [
+              "112",
+              "[@moondroid](https://github.com/moondroid)/[**SeekBarHint**](https://github.com/moondroid/SeekBarHint)",
+              "SeekBarHint allows to add a view witch is moved and updated according to the SeekBar position",
+              ""
+            ],
+            [
+              "90",
+              "[@dextorer](https://github.com/dextorer)/[**Sofa**](https://github.com/dextorer/Sofa)",
+              "A library for Android TV that extends the Leanback library functionalities",
+              ""
+            ],
+            [
+              "62",
+              "[@michelelacorte](https://github.com/michelelacorte)/[**ScrollableAppBar**](https://github.com/michelelacorte/ScrollableAppBar)",
+              "This is a Scrollable App Bar for Android",
+              ""
+            ],
+            [
+              "57",
+              "[@federicoiosue](https://github.com/federicoiosue)/[**checklistview**](https://github.com/federicoiosue/checklistview)",
+              "Library to convert an EditText into a View capable of acting as checklist",
+              ""
+            ],
+            [
+              "48",
+              "[@dextorer](https://github.com/dextorer)/[**BuildingForAndroidTV**](https://github.com/dextorer/BuildingForAndroidTV)",
+              "Code for the \"Building for Android TV\" series of articles.",
+              "[:arrow_upper_right:](https://medium.com/@rotxed)"
+            ],
+            [
+              "46",
+              "[@mariofusco](https://github.com/mariofusco)/[**lambdaj**](https://github.com/mariofusco/lambdaj)",
+              "manipulate collections in a pseudo-functional and statically typed way",
+              "[:arrow_upper_right:](http://code.google.com/p/lambdaj/)"
+            ],
+            [
+              "35",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**SlidingPaneLayoutWit…**](https://github.com/gabrielemariotti/SlidingPaneLayoutWithSwipe)",
+              "",
+              ""
+            ],
+            [
+              "30",
+              "[@Mirkoddd](https://github.com/Mirkoddd)/[**CPUSpyReborn**](https://github.com/Mirkoddd/CPUSpyReborn)",
+              "Redesign of cpu Spy",
+              ""
+            ],
+            [
+              "27",
+              "[@palazzem](https://github.com/palazzem)/[**adk-toolkit**](https://github.com/palazzem/adk-toolkit)",
+              "ADK Toolkit to manage UsbManager and UsbAccessory without any headaches!",
+              ""
+            ],
+            [
+              "16",
+              "[@genielabs](https://github.com/genielabs)/[**HomeGenie-Android**](https://github.com/genielabs/HomeGenie-Android)",
+              "Android client for HomeGenie: Home Automation, IoT, Z-Wave, X10, Philips Hue and more...",
+              "[:arrow_upper_right:](http://homegenie.it)"
+            ],
+            [
+              "16",
+              "[@mariofusco](https://github.com/mariofusco)/[**akkachat**](https://github.com/mariofusco/akkachat)",
+              "A client/server chat in Java written using Akka remote actors",
+              ""
+            ],
+            [
+              "16",
+              "[@mariofusco](https://github.com/mariofusco)/[**Java8WS**](https://github.com/mariofusco/Java8WS)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@moondroid](https://github.com/moondroid)/[**ChatBot**](https://github.com/moondroid/ChatBot)",
+              "Android chat experiment with an A.L.I.C.E. artificial intelligence.",
+              ""
+            ],
+            [
+              "15",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**StethoTest**](https://github.com/gabrielemariotti/StethoTest)",
+              "A simple project with the Stetho tool",
+              ""
+            ],
+            [
+              "13",
+              "[@gabrielemariotti](https://github.com/gabrielemariotti)/[**dashclockbattery**](https://github.com/gabrielemariotti/dashclockbattery)",
+              "DashClock Battery Extension",
+              ""
+            ],
+            [
+              "12",
+              "[@moondroid](https://github.com/moondroid)/[**ColorMixer**](https://github.com/moondroid/ColorMixer)",
+              "ColorMixer is a widget for choosing a color in HSV color-space",
+              ""
+            ],
+            [
+              "11",
+              "[@federicoiosue](https://github.com/federicoiosue)/[**SimpleGallery**](https://github.com/federicoiosue/SimpleGallery)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@dextorer](https://github.com/dextorer)/[**AndroidTCPSourceApp**](https://github.com/dextorer/AndroidTCPSourceApp)",
+              "Simple and performant Android library that extracts an application's basic information, given a Socket object.",
+              ""
+            ],
+            [
+              "7",
+              "[@mariofusco](https://github.com/mariofusco)/[**javaz**](https://github.com/mariofusco/javaz)",
+              "Java 8 lambda experiment",
+              ""
+            ],
+            [
+              "5",
+              "[@mariofusco](https://github.com/mariofusco)/[**drools-rete-builder**](https://github.com/mariofusco/drools-rete-builder)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@moondroid](https://github.com/moondroid)/[**List3d**](https://github.com/moondroid/List3d)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@jrizzoli](https://github.com/jrizzoli)/[**android_packages_app…**](https://github.com/jrizzoli/android_packages_apps_gello)",
+              "Gelling Gello that Gells",
+              ""
+            ],
+            [
+              "3",
+              "[@mariofusco](https://github.com/mariofusco)/[**drools-model**](https://github.com/mariofusco/drools-model)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@iGio90](https://github.com/iGio90)/[**packages_apps_ROMCon…**](https://github.com/iGio90/packages_apps_ROMControl)",
+              "ROMControl from aokp",
+              ""
+            ],
+            [
+              "3",
+              "[@iGio90](https://github.com/iGio90)/[**android_packages_app…**](https://github.com/iGio90/android_packages_apps_Settings)",
+              "JellyBam Settings app",
+              ""
+            ],
+            [
+              "3",
+              "[@rampo](https://github.com/rampo)/[**CharsPerLineExample**](https://github.com/rampo/CharsPerLineExample)",
+              "CharsPerLine utility example, based on Roman Nurik code.",
+              ""
+            ],
+            [
+              "3",
+              "[@moondroid](https://github.com/moondroid)/[**PaintBrush**](https://github.com/moondroid/PaintBrush)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lviggiano](https://github.com/lviggiano)/[**WakeOnLanJava**](https://github.com/lviggiano/WakeOnLanJava)",
+              "Wake On Lan implemented in Java",
+              ""
+            ],
+            [
+              "2",
+              "[@aaime](https://github.com/aaime)/[**png-experiments**](https://github.com/aaime/png-experiments)",
+              "png-experiments",
+              ""
+            ],
+            [
+              "2",
+              "[@moondroid](https://github.com/moondroid)/[**CompoundView-Example**](https://github.com/moondroid/CompoundView-Example)",
+              "example of creating a compound view (TextView+EditText+Button)",
+              ""
+            ],
+            [
+              "2",
+              "[@moondroid](https://github.com/moondroid)/[**SlidingTabsMenu**](https://github.com/moondroid/SlidingTabsMenu)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@moondroid](https://github.com/moondroid)/[**GlideDemo**](https://github.com/moondroid/GlideDemo)",
+              "Introduction to Glide, Image Loader Library for Android",
+              ""
+            ],
+            [
+              "2",
+              "[@palazzem](https://github.com/palazzem)/[**AndroidBrowser**](https://github.com/palazzem/AndroidBrowser)",
+              "Android application example shown at \"Open cloud conference 2012\"",
               ""
             ]
           ]
