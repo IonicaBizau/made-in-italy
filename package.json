@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -1773,6 +1774,363 @@
               "2",
               "[@palazzem](https://github.com/palazzem)/[**AndroidBrowser**](https://github.com/palazzem/AndroidBrowser)",
               "Android application example shown at \"Open cloud conference 2012\"",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "948",
+              "[@gsscoder](https://github.com/gsscoder)/[**commandline**](https://github.com/gsscoder/commandline)",
+              "Terse syntax C# command line parser for .NET with F# support",
+              ""
+            ],
+            [
+              "212",
+              "[@paolosalvatori](https://github.com/paolosalvatori)/[**ServiceBusExplorer**](https://github.com/paolosalvatori/ServiceBusExplorer)",
+              "The Service Bus Explorer allows users to connect to a Service Bus namespace and administer messaging entities in an easy manner. The tool provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.",
+              ""
+            ],
+            [
+              "136",
+              "[@frabert](https://github.com/frabert)/[**NetLua**](https://github.com/frabert/NetLua)",
+              "Completely managed .NET Lua",
+              ""
+            ],
+            [
+              "80",
+              "[@imperugo](https://github.com/imperugo)/[**StackExchange.Redis.…**](https://github.com/imperugo/StackExchange.Redis.Extensions)",
+              "",
+              ""
+            ],
+            [
+              "51",
+              "[@fogzot](https://github.com/fogzot)/[**vroomjs**](https://github.com/fogzot/vroomjs)",
+              "Mono-friendly bridge to V8 Javascript engine",
+              ""
+            ],
+            [
+              "21",
+              "[@AndyButland](https://github.com/AndyButland)/[**UmbracoPersonalisati…**](https://github.com/AndyButland/UmbracoPersonalisationGroups)",
+              "Package for personalisation of content with Umbraco.",
+              ""
+            ],
+            [
+              "18",
+              "[@trapped](https://github.com/trapped)/[**rotmg_svr**](https://github.com/trapped/rotmg_svr)",
+              "Realm of the Mad God server emulator",
+              ""
+            ],
+            [
+              "12",
+              "[@andreabalducci](https://github.com/andreabalducci)/[**Prxm.Cqrs**](https://github.com/andreabalducci/Prxm.Cqrs)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@paolosalvatori](https://github.com/paolosalvatori)/[**servicefabriceventhu…**](https://github.com/paolosalvatori/servicefabriceventhubdemo)",
+              "This sample demonstrates how to create a simple IoT application using Service Fabric.",
+              ""
+            ],
+            [
+              "9",
+              "[@imperugo](https://github.com/imperugo)/[**Dexter-Blog-Engine**](https://github.com/imperugo/Dexter-Blog-Engine)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@imperugo](https://github.com/imperugo)/[**IdentityServer3.Cont…**](https://github.com/imperugo/IdentityServer3.Contrib.Cache.Redis)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@naighes](https://github.com/naighes)/[**Carrot**](https://github.com/naighes/Carrot)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@gsscoder](https://github.com/gsscoder)/[**httphelpers**](https://github.com/gsscoder/httphelpers)",
+              "HTTP Helpers for C# / .NET",
+              ""
+            ],
+            [
+              "6",
+              "[@simoneb](https://github.com/simoneb)/[**ak-f1-timing**](https://github.com/simoneb/ak-f1-timing)",
+              "Git clone of original ak-f1-timing project on Google Code",
+              "[:arrow_upper_right:](http://code.google.com/p/ak-f1-timing/)"
+            ],
+            [
+              "6",
+              "[@SuperV1234](https://github.com/SuperV1234)/[**Specimen**](https://github.com/SuperV1234/Specimen)",
+              "(ABANDONED) An example game using SFMLStart, VeeEntitySystem2012, VeeCollision and VeeShadow",
+              ""
+            ],
+            [
+              "6",
+              "[@SuperV1234](https://github.com/SuperV1234)/[**VeeGen**](https://github.com/SuperV1234/VeeGen)",
+              "(ABANDONED) 2D terrain/dungeon generation library for games",
+              ""
+            ],
+            [
+              "6",
+              "[@gsscoder](https://github.com/gsscoder)/[**exprengine**](https://github.com/gsscoder/exprengine)",
+              "Expression Engine Library",
+              ""
+            ],
+            [
+              "5",
+              "[@micdenny](https://github.com/micdenny)/[**WpfScreenHelper**](https://github.com/micdenny/WpfScreenHelper)",
+              "Porting of Windows Forms Screen helper for Windows Presentation Foundation (WPF). It avoids dependencies on Windows Forms libraries when developing in WPF.",
+              ""
+            ],
+            [
+              "5",
+              "[@mesta1](https://github.com/mesta1)/[**S7.Net-example**](https://github.com/mesta1/S7.Net-example)",
+              "",
+              "[:arrow_upper_right:](http://www.mesta-automation.com/siemens-s7-plc-c-s7-net-plc-driver/)"
+            ],
+            [
+              "5",
+              "[@paolosalvatori](https://github.com/paolosalvatori)/[**servicefabricobserve…**](https://github.com/paolosalvatori/servicefabricobserver)",
+              "This project contains a framework that provides a publisher-subscriber implementation using the Observer design pattern for Service Fabric stateful services and actors.",
+              ""
+            ],
+            [
+              "5",
+              "[@AGiorgetti](https://github.com/AGiorgetti)/[**SignalR.Castle.Winds…**](https://github.com/AGiorgetti/SignalR.Castle.Windsor)",
+              "Castle Windsor dependency resolver for SignalR",
+              ""
+            ],
+            [
+              "5",
+              "[@imperugo](https://github.com/imperugo)/[**Spike**](https://github.com/imperugo/Spike)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@gsscoder](https://github.com/gsscoder)/[**morelinq**](https://github.com/gsscoder/morelinq)",
+              "Automatically exported from code.google.com/p/morelinq",
+              ""
+            ],
+            [
+              "4",
+              "[@mesta1](https://github.com/mesta1)/[**WPF-on-screen-keyboa…**](https://github.com/mesta1/WPF-on-screen-keyboard-and-keypad)",
+              "Contains a WPF keypad and keyboard that can be used with touch applications and that has a good graphic",
+              "[:arrow_upper_right:](http://www.mesta-automation.com/wpf-touch-keyboard/)"
+            ],
+            [
+              "4",
+              "[@simoneb](https://github.com/simoneb)/[**Reflector.FileDisass…**](https://github.com/simoneb/Reflector.FileDisassembler)",
+              "Modified copy of original code from Denis Bauer",
+              ""
+            ],
+            [
+              "3",
+              "[@yorek](https://github.com/yorek)/[**TSQLQueryBenchmark**](https://github.com/yorek/TSQLQueryBenchmark)",
+              "SQL Server Query Benchmark",
+              ""
+            ],
+            [
+              "3",
+              "[@toburger](https://github.com/toburger)/[**RulesEngine**](https://github.com/toburger/RulesEngine)",
+              "Experimentations with DLR (Dynamic Language Runtime) and MEF (Managed Extensibility Framework)",
+              ""
+            ],
+            [
+              "3",
+              "[@simoneb](https://github.com/simoneb)/[**Roger**](https://github.com/simoneb/Roger)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@SuperV1234](https://github.com/SuperV1234)/[**VeeBulletHell**](https://github.com/SuperV1234/VeeBulletHell)",
+              "(ABANDONED) A Touhou clone I made a while ago - buggy and deprecated",
+              ""
+            ],
+            [
+              "3",
+              "[@mesta1](https://github.com/mesta1)/[**WPF-Circular-Gauge**](https://github.com/mesta1/WPF-Circular-Gauge)",
+              "WPF CircularGauge.dll is a gauge UserControl based on EvelynT code.",
+              "[:arrow_upper_right:](http://www.mesta-automation.com/wpf-gauge-with-samples/)"
+            ],
+            [
+              "3",
+              "[@andreabalducci](https://github.com/andreabalducci)/[**TimePeriod**](https://github.com/andreabalducci/TimePeriod)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@andreabalducci](https://github.com/andreabalducci)/[**nes-training**](https://github.com/andreabalducci/nes-training)",
+              "CQRS Crash Course - Samples / Labs",
+              "[:arrow_upper_right:](https://trello.com/b/7420nE7D/cqrs-crash-course)"
+            ],
+            [
+              "3",
+              "[@naighes](https://github.com/naighes)/[**ReactiveMongo**](https://github.com/naighes/ReactiveMongo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@SuperV1234](https://github.com/SuperV1234)/[**VeeEntitySystem2012**](https://github.com/SuperV1234/VeeEntitySystem2012)",
+              "(ABANDONED) A component-based entity system for real-time games",
+              ""
+            ],
+            [
+              "3",
+              "[@paolosalvatori](https://github.com/paolosalvatori)/[**servicefabricclickan…**](https://github.com/paolosalvatori/servicefabricclickanalytics)",
+              "This demo demonstrates how to use Service Fabric and Event Hubs to build a highly scalable, highly reliable ingestion pipeline for a click analytics system that receives events sent by a client-side script running in a web page and persists them to an Append Blob, one for each user session.",
+              ""
+            ],
+            [
+              "3",
+              "[@SuperV1234](https://github.com/SuperV1234)/[**SFMLStart**](https://github.com/SuperV1234/SFMLStart)",
+              "(ABANDONED) A high-level library for SFML.NET developers",
+              ""
+            ],
+            [
+              "3",
+              "[@mauroservienti](https://github.com/mauroservienti)/[**NServiceBus.Samples**](https://github.com/mauroservienti/NServiceBus.Samples)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@paolosalvatori](https://github.com/paolosalvatori)/[**ServiceBusExtensions**](https://github.com/paolosalvatori/ServiceBusExtensions)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@paolosalvatori](https://github.com/paolosalvatori)/[**servicefabricasynchr…**](https://github.com/paolosalvatori/servicefabricasynchronouscomputingactors)",
+              "This sample demonstrates how to create a stateful actor service that supports long running, asynchronous computations in Service Fabric. ",
+              ""
+            ],
+            [
+              "2",
+              "[@gsscoder](https://github.com/gsscoder)/[**CSharpx**](https://github.com/gsscoder/CSharpx)",
+              "Functional programming and other utilities for C#",
+              ""
+            ],
+            [
+              "2",
+              "[@simoneb](https://github.com/simoneb)/[**lsight**](https://github.com/simoneb/lsight)",
+              "Log visualizer on steroids",
+              ""
+            ],
+            [
+              "2",
+              "[@simoneb](https://github.com/simoneb)/[**AnkhVersionOneConnec…**](https://github.com/simoneb/AnkhVersionOneConnector)",
+              "Provides issue tracking integration in Visual Studio between AnkhSVN and VersionOne",
+              ""
+            ],
+            [
+              "2",
+              "[@simoneb](https://github.com/simoneb)/[**tddproblems**](https://github.com/simoneb/tddproblems)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@simoneb](https://github.com/simoneb)/[**ManagedShovel**](https://github.com/simoneb/ManagedShovel)",
+              "External shovel mechanism for RabbitMQ",
+              ""
+            ],
+            [
+              "2",
+              "[@frabert](https://github.com/frabert)/[**SharpPhysFS**](https://github.com/frabert/SharpPhysFS)",
+              "Managed wrapper for the PhysFS library",
+              ""
+            ],
+            [
+              "2",
+              "[@simoneb](https://github.com/simoneb)/[**TcpControl**](https://github.com/simoneb/TcpControl)",
+              "TCP proxy with latency and bandwidth control capabilities",
+              ""
+            ],
+            [
+              "2",
+              "[@simoneb](https://github.com/simoneb)/[**linunit**](https://github.com/simoneb/linunit)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@antdimot](https://github.com/antdimot)/[**chess-movement-valid…**](https://github.com/antdimot/chess-movement-validator)",
+              "Implement an engine validator for piece movement on chess board.",
+              ""
+            ],
+            [
+              "2",
+              "[@antdimot](https://github.com/antdimot)/[**MongoLab-Rest-Client**](https://github.com/antdimot/MongoLab-Rest-Client)",
+              "This is a small .net library provides support to work with mongolab the mongodb hosting service.",
+              ""
+            ],
+            [
+              "2",
+              "[@micdenny](https://github.com/micdenny)/[**EasyNetQ.Host**](https://github.com/micdenny/EasyNetQ.Host)",
+              "Generic service host to sand-boxing EasyNetQ subscribers",
+              ""
+            ],
+            [
+              "2",
+              "[@gsscoder](https://github.com/gsscoder)/[**railwaysharp**](https://github.com/gsscoder/railwaysharp)",
+              "Native C# implementation of Railway-oriented programming (https://github.com/fsprojects/Chessie)",
+              ""
+            ],
+            [
+              "2",
+              "[@AndyButland](https://github.com/AndyButland)/[**BackgammonR**](https://github.com/AndyButland/BackgammonR)",
+              "Work in progress project to investigate SignalR by implementing a backgammon game",
+              ""
+            ],
+            [
+              "2",
+              "[@toburger](https://github.com/toburger)/[**FlosCSTutorial**](https://github.com/toburger/FlosCSTutorial)",
+              "Flo's C# Tutorial",
+              ""
+            ],
+            [
+              "2",
+              "[@SuperV1234](https://github.com/SuperV1234)/[**TestGenericShooter**](https://github.com/SuperV1234/TestGenericShooter)",
+              "(ABANDONED) A top-down shooting game resembling Operation Carnage",
+              ""
+            ],
+            [
+              "2",
+              "[@paolosalvatori](https://github.com/paolosalvatori)/[**servicefabriciothubd…**](https://github.com/paolosalvatori/servicefabriciothubdemo)",
+              "This sample demonstrates how to create a simple IoT application using Service Fabric, OWIN, IoT Hub and Event Hubs.",
+              ""
+            ],
+            [
+              "2",
+              "[@mesta1](https://github.com/mesta1)/[**OPC-XML-DA-sample-cl…**](https://github.com/mesta1/OPC-XML-DA-sample-client)",
+              "Example of an OPC-XML-DA client with C#",
+              "[:arrow_upper_right:](http://www.mesta-automation.com/opc-xml-da-client-with-c/)"
+            ],
+            [
+              "2",
+              "[@simoneb](https://github.com/simoneb)/[**dgml2**](https://github.com/simoneb/dgml2)",
+              "Command line utility to convert DGML to other graph formats",
               ""
             ]
           ]
