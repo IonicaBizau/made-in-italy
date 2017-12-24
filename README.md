@@ -9,11 +9,13 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7868 | [@cubiq](https://github.com/cubiq)/[**iscroll**](https://github.com/cubiq/iscroll) | Smooth scrolling for the web | [:arrow_upper_right:](http://iscrolljs.com)
@@ -249,7 +251,9 @@
 2 | [@rpl](https://github.com/rpl)/[**mozilla-addons-and-b…**](https://github.com/rpl/mozilla-addons-and-browserify) | two small example add-ons which shows how to use browserified modules in Firefox add-ons based on the WebExtensions or the Addon SDK. |
 2 | [@lmatteis](https://github.com/lmatteis)/[**smark**](https://github.com/lmatteis/smark) | Create beautiful presentation slides with Markdown |
 2 | [@luruke](https://github.com/luruke)/[**appear-animation**](https://github.com/luruke/appear-animation) | Easily add animation when elements comes in the viewport. |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4418 | [@gabrielemariotti](https://github.com/gabrielemariotti)/[**cardslib**](https://github.com/gabrielemariotti/cardslib) | Android Library to build a UI Card |
@@ -302,7 +306,9 @@
 2 | [@moondroid](https://github.com/moondroid)/[**SlidingTabsMenu**](https://github.com/moondroid/SlidingTabsMenu) |  |
 2 | [@moondroid](https://github.com/moondroid)/[**GlideDemo**](https://github.com/moondroid/GlideDemo) | Introduction to Glide, Image Loader Library for Android |
 2 | [@palazzem](https://github.com/palazzem)/[**AndroidBrowser**](https://github.com/palazzem/AndroidBrowser) | Android application example shown at "Open cloud conference 2012" |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 948 | [@gsscoder](https://github.com/gsscoder)/[**commandline**](https://github.com/gsscoder/commandline) | Terse syntax C# command line parser for .NET with F# support |
@@ -362,6 +368,7 @@
 2 | [@paolosalvatori](https://github.com/paolosalvatori)/[**servicefabriciothubd…**](https://github.com/paolosalvatori/servicefabriciothubdemo) | This sample demonstrates how to create a simple IoT application using Service Fabric, OWIN, IoT Hub and Event Hubs. |
 2 | [@mesta1](https://github.com/mesta1)/[**OPC-XML-DA-sample-cl…**](https://github.com/mesta1/OPC-XML-DA-sample-client) | Example of an OPC-XML-DA client with C# | [:arrow_upper_right:](http://www.mesta-automation.com/opc-xml-da-client-with-c/)
 2 | [@simoneb](https://github.com/simoneb)/[**dgml2**](https://github.com/simoneb/dgml2) | Command line utility to convert DGML to other graph formats |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
